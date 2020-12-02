@@ -12,8 +12,8 @@ namespace Assignment1
         {
 
             Employee e1 = new Employee();
-            Employee e2 = new Employee("rahul");
-            Employee e3 = new Employee("rahul", 500000);
+            Employee e2 = new Employee("Samrat");
+            Employee e3 = new Employee("Samrat", 500000);
             Employee e4 = new Employee("", 50000, 12);
 
 
@@ -119,7 +119,7 @@ namespace Assignment1
                 }
                 else
                 {
-                    Console.WriteLine("u hve enterd wrong dept number");
+                    Console.WriteLine(" wrong dept number");
                 }
             }
             get
